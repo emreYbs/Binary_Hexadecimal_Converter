@@ -1,5 +1,5 @@
-# Binary_Hexadecimal_Converter
-**A simple Decimal Binary Hexadecimal Converter CLI**
+# Binary_Hexadecimal_Converter ♻️
+**A simple Decimal Binary Hexadecimal Converter CLI** 💱
 
 **Usage:**
 python3 Binary_Hexadecimal_Converter.py
