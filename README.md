@@ -4,7 +4,8 @@
 **Usage:**
 python3 Binary_Hexadecimal_Converter.py
 
-- You can give a decimal number as user input,for example, here I gave 16. But it works well with higher numbers. To take the screenshot, I gave the number 16 as example. Halo library is only needed here for small animations. You can just edit the code as you wish for further speed in calculations.
+- You can give a decimal number as user input, _for example_, here I gave 16. But it works well with higher numbers. In the the screenshot below, I gave the number 16 as example. 
+- **Halo library** is only needed here _for_ _**small animations**_. You can just edit the code as you wish for further speed in calculations, so if you wish don't use that library in the python code.
 
 ![image](https://user-images.githubusercontent.com/59505246/139154974-09d4e516-6f08-442d-ab73-6b6ac3fe2fd8.png)
 
@@ -18,3 +19,5 @@ python3 Binary_Hexadecimal_Converter.py
 **Hexadecimal Number System:**
 
 *In mathematics and computing, hexadecimal (also base 16, or hex) is a positional numeral system with a radix, or base, of 16. It uses sixteen distinct symbols, most often the symbols 0–9 to represent values zero to nine, and A,B,C,D,E,F (or alternatively a, b, c, d, e, f) to represent values ten to fifteen.*
+
+![Binary Number](https://sites.google.com/site/syhaldorosales/creative-projects/binary-numbers/Binary%20Picture.png?attredirects=0)
