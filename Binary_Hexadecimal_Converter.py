@@ -1,11 +1,9 @@
 #!/bin/bash
 #EmreYbs
-
-
+#Binary_Hexadecimal_Converter
 
 from halo import Halo
 import time
-
 
 spinner = Halo(text="Binary/Hexadecimal Converter App",spinner="dots",color="cyan")
 spinner.start("\n Beginning...")
