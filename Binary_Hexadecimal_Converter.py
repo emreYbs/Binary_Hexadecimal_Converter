@@ -1,4 +1,4 @@
-#!/bin/bash
+#/bin/bash/python
 #EmreYbs
 #Binary_Hexadecimal_Converter
 
